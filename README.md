@@ -12,7 +12,7 @@ It is kind of common knowledge that you can just learn this over the internet. T
 
 ## Disclaimer
 
-I started learning Web development. The reason to learn 'programming' was that I wanted a real career and I found fun the little I knew about writing code. The reason to learn 'Web' was that I was running out of money and I didn't want to return to Venezuela defeated on my attempt to establish myself in Spain, and Web was the fastest way to land a job. What is this information good for? I don't know... Probably nothing... but this is what guided my choices at the time (December 2018).
+I started learning Web development. The reason to learn 'programming' was that I wanted a real career and I found fun the little I knew about writing code. The reason to learn 'Web' was that I was running out of money and I didn't want to return to Venezuela defeated on my attempt to establish myself in Spain, and Web was the fastest way to land a job. What is this information good for? I don't know... Probably nothing... but this is what guided my choices at the time (December 2017).
 
 ## Steps I took to learn Web development.
 
